@@ -1,0 +1,221 @@
+body{
+background-color:#121212;
+}
+
+#frame{
+width:800px;
+margin:5px 250px 0px 250px ;
+}
+#top{
+	padding-left:19px;
+}
+#singername{
+font-size:50pt;
+font-family:Arial ,sans serif;
+margin-left:0.1px;
+text-decoration:none;
+color:white;
+}
+#message{
+	font-style:italic;
+	color:#e1c474;
+	font-size:20px;
+	margin:5px 0px 0px 270px;
+}
+
+#header_list{
+background-color:#ffffff;
+float:right;
+width:250px;
+margin:300px px 0px 0px;
+padding:0px 0px 0px 15px;
+height:870px;
+-webkit-border-image:url(image/line_vertical.png) 60 30 round;
+-moz-border-image:url(image/line_vertical.png) 60 30 round;
+border-left:10px solid transparent;
+}
+.menu{
+width:auto;
+height:auto;
+margin:15px 0px 0px 0px;
+background-color:#ffffff;
+}
+.menu ul{
+list-style:none;
+padding:5px;
+
+}
+.menu li{
+
+text-decoration:none;
+font-weight:bold;
+margin:8px;
+font-family:Calibri;
+font-size:14pt;
+color:#464646;
+
+}
+.menu li a:link{
+color:#464646;
+text-decoration:none;
+}
+.menu li a:visited{
+color:#464646;
+text-decoration:none;
+}
+.menu li a:hover{
+color:#e1c474;
+text-decoration:underline;
+}
+.menu li a:active{
+color:#e1c474;
+text-decoration:none;
+}
+#m{margin:auto;}
+#center{
+width:auto;
+background-color:white;
+border-radius:8px ;
+height:auto;
+
+}
+.coverimage{
+padding:2px;
+
+}
+.coverimage img{
+border:10px solid white;
+border-radius :15px;
+width:775px;
+}
+
+.infotable{
+width:750px;
+-webkit-border-image:url(image/line_vertical.png) 60 30 round;
+-moz-border-image:url(image/line_vertical.png) 60 30 round;
+border-radius:30px;
+background-color:white;
+margin:0px 0px 0px 7px;
+padding:6px;
+}
+.header{
+font-family:Calibri;
+font-size:30px;
+color:#00000;
+text-align:left;
+margin:5px 0px 0px 2px;
+-webkit-border-image:url(image/line_horizontal.png) 10 20 round;
+-moz-border-image:url(image/line_horizontal.png) 60 30 round;
+border-bottom:10px solid transparent;
+
+}
+.subtitle{
+font-family:Calibri;
+font-size:20px;
+font-weight:bold;
+color:#00000;
+text-align:left;
+margin:5px 0px 0px 8px;
+text-decoration:underline;
+}
+.information {
+font-family:Calibri;
+font-size:15px;
+color:#464646;
+margin:5px 0px 0px 0px;
+padding:10px;
+text-align:left;
+
+}
+emp{
+	font-style:italic;
+}
+.image{
+	
+	padding:9px;
+	background-color:#e1c474;
+	border-color:#e1c474;
+	font-style:italic;
+	border-style:solid;
+	font-family:Calibri;
+	
+}
+
+.note{
+	font-family:Calibri;
+	margin:10px;
+	padding:9px 9px 9px 20px;
+	background-color:black;
+	color:white;
+	font-style:italic;
+	border-style:dotted;
+	font-size:12pt;
+}
+.symbol{float:left;}
+
+.album_table tr{
+	margin:7px;
+	
+	
+}
+.album_table 
+{
+	border:5px solid transparent;
+	margin:10px 0px 0px 0px;
+	
+}
+.album_table img
+{
+	border:1px solid #e1c474;
+	margin-right:2px;
+
+}
+.album_table h3
+{
+	font-family:Calibri;
+	font-size:14px;
+	color:#e1c474;
+	
+}
+.album_table h4
+{
+	
+	font-family: Calibri;
+	font-size:12px;
+	color:#e1e1d0;
+	font-weight:none;
+	
+}
+#albums{
+	padding:5px;
+	background-color:black;
+	float:right;
+	width:auto;
+	height:auto;
+	margin:300px px 0px 0px;
+	border-radius:5px;
+	box-shadow:2px 2px 2px black;
+}
+#topbutton a{
+
+font-weight:bold;
+margin:0px 250px 0px 350px;
+color:#ff9900;
+text-decoration:none;
+}
+#source a
+{
+	margin:0px 130px 0px 130px;
+	font-family: Calibri;
+	font-size:10px;
+	color:gray;
+	font-weight:none;
+	
+}
+
+
+
+
+
+
+
