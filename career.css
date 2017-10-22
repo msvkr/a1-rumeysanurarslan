@@ -9,20 +9,14 @@ margin:5px 250px 0px 250px ;
 #top{
 	padding-left:19px;
 }
-#singername{
-font-size:50pt;
-font-family:Arial ,sans serif;
-margin-left:0.1px;
-text-decoration:none;
-color:white;
-}
+
 #message{
+	font-family:sans serif , Calibri;
 	font-style:italic;
 	color:#e1c474;
-	font-size:20px;
-	margin:5px 0px 0px 270px;
+	font-size:17px;
+	margin:100px 0px 0px 180px;
 }
-
 #header_list{
 background-color:#ffffff;
 float:right;
@@ -203,10 +197,14 @@ margin:0px 250px 0px 350px;
 color:#ff9900;
 text-decoration:none;
 }
-#source a
+#source
 {
 	margin:0px 130px 0px 130px;
-	font-family: Calibri;
+	
+}
+#source a
+{
+font-family: Calibri;
 	font-size:10px;
 	color:gray;
 	font-weight:none;
