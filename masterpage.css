@@ -9,18 +9,13 @@ margin:5px 250px 0px 250px ;
 #top{
 	padding-left:19px;
 }
-#singername{
-font-size:50pt;
-font-family:Arial ,sans serif;
-margin-left:0.1px;
-text-decoration:none;
-color:white;
-}
+
 #message{
+	font-family:sans serif , Calibri;
 	font-style:italic;
 	color:#e1c474;
 	font-size:17px;
-	margin:5px 0px 0px 270px;
+	margin:100px 0px 0px 180px;
 }
 .songlyrıcs{
 font-family:Lucida Calligraphy,sans serif;
@@ -76,7 +71,7 @@ text-decoration:none;
 width:auto;
 background-color:white;
 border-radius:8px ;
-height:1940px;
+height:1970px;
 }
 .coverimage{
 padding:2px;
